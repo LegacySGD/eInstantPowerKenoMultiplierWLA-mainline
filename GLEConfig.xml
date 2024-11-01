@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2138" desc="Keno Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Starship Keno Multiplier WLA" version="1.0.12" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="10,25,50,100,200,300,500,1000,2000"
+              spots="1:2:3:4:5:6:7:8:9:10"
+              productId="3"
+              gamegroup="Keno"
+              languages="en,en_US,pt_BR,pl_PL,nb_NO,en_NZ"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N">
+
+            <!-- ZER -->
+            <!--<paymodel modelid="300-2138-099"  revealId="2138" revealVersionId="2138"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-099"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-099" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-099" clienttype="HTML" configcode="PHLP"/>-->
+
+            <!-- RGS -->
+            <!--<paymodel modelid="300-2138-001"  revealId="2138" revealVersionId="2138"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-001"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-001" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-001" clienttype="HTML" configcode="PHLP"/>-->
+
+            <!-- BRZ -->
+            <!--<paymodel modelid="300-2138-002"  revealId="2138" revealVersionId="2138"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-002"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-002" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-002" clienttype="HTML" configcode="PHLP"/>-->
+
+            <!-- PLT -->
+            <paymodel modelid="300-2138-003"  revealId="2138" revealVersionId="2138"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-003"
+                      hibethold="25.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-003" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-003" clienttype="HTML" configcode="PHLP"/>    
+
+            <!-- GA -->
+            <paymodel modelid="300-2138-004"  revealId="4326" revealVersionId="4326"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-004"
+                      hibethold="25.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-004" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-004" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- KY -->
+            <paymodel modelid="300-2138-005"  revealId="4326" revealVersionId="4320"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-005"
+                      hibethold="25.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-005" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-005" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- RI -->
+            <paymodel modelid="300-2138-006"  revealId="4811" revealVersionId="4799"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-006"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-006" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-006" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- NT -->
+            <paymodel modelid="300-2138-007"  revealId="4326" revealVersionId="4320"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-007"
+                      hibethold="25.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-007" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-007" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LNZ -->
+            <paymodel modelid="300-2138-008"  revealId="4811" revealVersionId="4799"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Power Keno Multiplier WLA : 300-2138-008"
+                      hibethold="41.30" lobethold="41.30"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2138-008" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2138-008" clienttype="HTML" configcode="PHLP"/>
+
+            <denom currencycode="BRL" amount="0.01,0.03"/>
+            <denom currencycode="NOK" amount="0.01"/>
+            <denom currencycode="NZD" amount="0.01,0.02"/>
+            <denom currencycode="PLN" amount="0.01,0.05"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>
